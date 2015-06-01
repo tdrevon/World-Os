@@ -14,6 +14,6 @@ When it come to deciding upon an operating system there isn't much choice. Its a
 
 Cody West: Python, Css3, Html5, Coffee Script and Java Script Developer. Designer at heart. Big fan of gadgets and mini computers.
 
-Tom Drevon: 
+Tom Drevon: that guy sitting in his chair that does awesome things (HTML 5 Python Swift. computer nerd)
 
 
